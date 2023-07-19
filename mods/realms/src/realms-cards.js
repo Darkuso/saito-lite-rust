@@ -491,6 +491,7 @@
 			img: https://github.com/SaitoTech/saito-lite-rust/blob/master/mods/realms/web/img/cards/032-waterfall-ruin.png,
 		};
 
+
 		return deck;
 	}
 
